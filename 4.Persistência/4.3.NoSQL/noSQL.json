@@ -1,0 +1,5 @@
+{
+  "mensagem": "string",
+  "data": "timestamp",
+  "pacienteID": "string"
+}
